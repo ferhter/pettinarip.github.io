@@ -1,0 +1,6 @@
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"><link rel="shortcut icon" type="image/png" href="favicon-32x32.png"><title>ACryptoS :: Advanced Crypto Strategies</title><script async src="https://www.googletagmanager.com/gtag/js?id=G-N7Q4E4VQ4R"></script><script>window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-N7Q4E4VQ4R');
+      window.gtag = gtag;</script><link href="css/app.59663fe8.css" rel="preload" as="style"><link href="css/chunk-vendors.8143c7ae.css" rel="preload" as="style"><link href="js/app.6bd42129.js" rel="preload" as="script"><link href="js/chunk-vendors.102a0ecc.js" rel="preload" as="script"><link href="css/chunk-vendors.8143c7ae.css" rel="stylesheet"><link href="css/app.59663fe8.css" rel="stylesheet"></head><body><div id="app"></div><script src="js/chunk-vendors.102a0ecc.js"></script><script src="js/app.6bd42129.js"></script></body></html>
